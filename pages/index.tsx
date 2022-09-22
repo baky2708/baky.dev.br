@@ -5,6 +5,7 @@ const Home: NextPage = () => {
     <div>
       <h1>BakyLand</h1>
       <h2>Yaya</h2>
+      <h2>Test domain</h2>
     </div>
   )
 }
